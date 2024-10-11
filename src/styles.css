@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.mention {
+  background-color: #27913F;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 3px 6px;
+  line-height: 24px;
+  border-radius: 16px;
+}
+
+.jodit-autocomplete-item {
+  background-color: white;
+}
+
+.jodit-autocomplete-item_active_true {
+  background-color: lightgray !important;
+}
